@@ -121,7 +121,8 @@ Calculator/
 ## 📊 **Screenshots**
 
 ### Jenkins Pipeline View
-![WhatsApp Image 2024-10-19 at 12 09 25](https://github.com/user-attachments/assets/1996bf52-614b-4c70-a66a-1ec2a8280a36)
+<img width="1470" alt="Screenshot 2024-11-06 at 6 59 02 PM" src="https://github.com/user-attachments/assets/b1f4ac88-a62e-4e60-b89c-2e411eb5b06a">
+
 
 
 ---
